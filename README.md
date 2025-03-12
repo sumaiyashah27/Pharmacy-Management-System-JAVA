@@ -1,7 +1,5 @@
 # 🏥 Pharmacy Management System
 
-![Pharmacy Management System](https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif)
-
 ## 📌 Overview
 The **Pharmacy Management System** is a standalone desktop application developed in **Java (Core & Advanced)** using **Eclipse IDE** with **MySQL** and **PostgreSQL** databases. This system efficiently manages pharmacy stock, sales, billing, and customer records.
 
