@@ -1,35 +1,35 @@
-# 🏥 Pharmacy Management System
+# Pharmacy Management System
 
-## 📌 Overview
+##  Overview
 The **Pharmacy Management System** is a standalone desktop application developed in **Java (Core & Advanced)** using **Eclipse IDE** with **MySQL** and **PostgreSQL** databases. This system efficiently manages pharmacy stock, sales, billing, and patient records with a user-friendly interface and robust security features.
 
-## 🚀 Key Features
-- 🎨 **User-friendly Interface**
-- 🔐 **Secure Login & Authentication**
-- 📦 **Stock & Inventory Management**
-- 🏥 **Patient & Supplier Management**
-- 💰 **Sales & Billing System**
-- 📊 **Reports & Analytics**
-- 🗄️ **Database Connectivity (MySQL & PostgreSQL)**
+##  Key Features
+-  **User-friendly Interface**
+-  **Secure Login & Authentication**
+-  **Stock & Inventory Management**
+-  **Patient & Supplier Management**
+-  **Sales & Billing System**
+-  **Reports & Analytics**
+-  **Database Connectivity (MySQL & PostgreSQL)**
 
-## 🛠️ Tech Stack
-- **Programming Language:** Java (Core & Advanced) ☕
-- **IDE:** Eclipse 💡
-- **Database:** MySQL, PostgreSQL 🗃️
-- **Libraries & Frameworks:** JDBC, Swing, AWT 📚
+##  Tech Stack
+- **Programming Language:** Java (Core & Advanced) 
+- **IDE:** Eclipse 
+- **Database:** MySQL, PostgreSQL 
+- **Libraries & Frameworks:** JDBC, Swing, AWT 
 
-## 🏗️ Installation Guide
-### 📥 Clone the Repository
+##  Installation Guide
+###  Clone the Repository
 ```sh
-git clone https://github.com/sumaiyashah27/Pharmacy-Management-System.git
+git clone https://github.com/sumaiyashah27/Pharmacy-Management-System-JAVA.git
 ```
 
-### 📂 Open in Eclipse
+###  Open in Eclipse
 1. Launch **Eclipse IDE**.
 2. Navigate to **File** → **Open Projects from File System**.
 3. Select the cloned project directory and import it.
 
-### 🗄️ Database Setup
+###  Database Setup
 1. Open MySQL/PostgreSQL database management tool.
 2. Create a new database named **pms**.
 3. Update the database connection details in the project configuration files.
@@ -42,5 +42,5 @@ git clone https://github.com/sumaiyashah27/Pharmacy-Management-System.git
 
 ## 📧 Contact
 For any queries or support, feel free to reach out:
-- 📩 **Email:** [sumaiyashah647@gmail.com](mailto:sumaiyashah647@gmail.com)
-- 🔗 **LinkedIn:** [Sumaiya Shah](https://www.linkedin.com/in/sumaiya-shah-7a0706224/)
+-  **Email:** [sumaiyashah647@gmail.com](mailto:sumaiyashah647@gmail.com)
+-  **LinkedIn:** [Sumaiya Shah](https://www.linkedin.com/in/sumaiya-shah-7a0706224/)
