@@ -34,7 +34,7 @@ git clone https://github.com/sumaiyashah27/Pharmacy-Management-System-JAVA.git
 2. Create a new database named **pms**.
 3. Update the database connection details in the project configuration files.
 
-### ▶️ Run the Application
+### Run the Application
 1. Locate `PMSHomePage.java` in the project directory.
 2. Right-click and select **Run As → Java Application**.
 3. The application will launch successfully. 🚀
